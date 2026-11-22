@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PulseHR</string>
+    <string name="app_tagline">Enterprise Workforce &amp; Compliance Portal</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_attendance">Attendance</string>
+    <string name="nav_leaves">Leaves</string>
+    <string name="nav_payroll">Payroll</string>
+    <string name="nav_profile">Profile</string>
+    <string name="biometric_unlock_title">Unlock PulseHR</string>
+    <string name="biometric_unlock_subtitle">Verify fingerprint or facial recognition to enter PulseHR</string>
+    <string name="geofence_outside_blocked_title">Outside Branch Geofence</string>
+    <string name="geofence_outside_blocked_msg">You must be within your assigned branch perimeter to clock in or out.</string>
+    <string name="document_size_limit_error">File exceeds the 5 MB security limit.</string>
+    <string name="document_mime_limit_error">Unsupported file format. Only PDF, JPEG, and PNG are allowed.</string>
+    <string name="error_invalid_pin">Incorrect PIN. Please try again.</string>
+</resources>

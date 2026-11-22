@@ -1,0 +1,6 @@
+{
+  "name": "PulseHR",
+  "description": "Enterprise HR self-service app with biometric authentication, GPS geofenced attendance, leave management, interactive payslips, document vault, and offline WorkManager sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
